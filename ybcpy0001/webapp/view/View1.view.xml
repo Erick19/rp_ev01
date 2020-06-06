@@ -5,7 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content></content>
 				</Page>
-			</pages>
+			</pages> 
 		</App>
 	</Shell>
 </mvc:View>
